@@ -17,7 +17,70 @@
     "piBio": "蒋永康，同济大学自主智能无人系统全国重点实验室教师，“空中物理交互实验室”与“地下自然洞穴复合环境模拟实验室”负责人。\n本科与博士均毕业于北京航空航天大学，曾在瑞士洛桑联邦理工学院（EPFL）开展访问研究。聚焦智能机器人、空中无人系统与具身交互，研究机构、感知与控制如何协同支撑真实环境中的自主作业。",
     "piPhoto": "./media/jiang-yongkang.jpg",
     "piProfile": "https://faculty.tongji.edu.cn/jiangyongkang/zh_CN/index.htm",
-    "showPublications": true
+    "showPublications": true,
+    "piDetails": {
+      "intro": "蒋永康，同济大学助理教授，工作于自主智能无人系统全国重点实验室，担任同济大学“空中物理交互实验室”与“地下自然洞穴复合环境模拟实验室”负责人。上海市“晨光学者”、上海市“东方英才”团队核心骨干。本科与博士均毕业于北京航空航天大学，曾赴瑞士洛桑联邦理工学院（EPFL）访问研究，并在中国科学院深圳先进技术研究院从事博士后研究。",
+      "sections": [
+        {
+          "title": "研究方向",
+          "body": "聚焦智能机器人、空中无人系统与具身交互，关注机器人机构、感知和控制之间的协同关系，研究机器人如何利用自身形态和环境接触完成复杂任务。研究工作涉及变刚度与可重构机构、双稳态抓持、无人机停歇和空中物理交互，以及软体机器人与感驱一体化。围绕快速接触、稳定抓持、释放与再次运动等过程，探索从机构设计到系统集成的研究方法，面向复杂自然环境拓展无人系统的作业能力。"
+        },
+        {
+          "title": "科研工作",
+          "body": "主持国家自然科学基金青年项目、国家重点研发计划子课题、上海市“晨光计划”人才项目及中央高校基本科研业务费项目，获批国家自然科学基金面上项目（2027年起资助），参与上海市人工智能重大专项等科研任务。已在 Cell Reports Physical Science、IEEE/ASME Transactions on Mechatronics、IEEE Transactions on Industrial Electronics、IEEE Robotics and Automation Letters、Bioinspiration & Biomimetics 以及 ICRA、IROS 等期刊与会议发表研究成果。相关工作涵盖双稳态结构、快速抓持、动态触觉感知和空中交互等方向。以共同第一作者参与的两项研究已分别获 Science Advances 和 Cell Reports Physical Science 接收。"
+        },
+        {
+          "title": "代表性科研平台",
+          "body": "主持研发面向复杂自然环境的自驻式无人机系统平台“智能飞鸟”，围绕密林、管道、洞穴等受限环境中的停歇、避障与持续监测开展研究。结合多模态自适应停歇机构与无人系统感知控制，探索无人机利用环境结构实现稳定驻留、开展感知任务并再次起飞的方法。平台以空中物理交互为纽带，将机构创新与飞行系统相结合，为复杂环境中的无人机作业研究提供实验基础。"
+        },
+        {
+          "title": "教学与人才培养",
+          "body": "主讲“人工智能前沿进展与应用”“智能自主机器人与系统”等课程。“人工智能前沿进展与应用”入选教育部人工智能前沿主题微课程项目，并入选同济大学研究生线上精品课程、智慧课程相关教改项目。指导电信学院、国豪书院、交通学院等本科生参与机器人科研实践，承担校级、上海市级和国家级 SITP 项目的指导工作，将本科生科研训练与团队的机器人研究相衔接。获评2025年同济大学优秀班主任、同济大学本科生学科竞赛优秀指导教师。"
+        },
+        {
+          "title": "竞赛指导",
+          "body": "作为指导教师、领队，指导团队获得2025年工信部新域新质创新大赛全国总决赛二等奖、2025年国际人形机器人技能大赛具身智能应用场景挑战赛第一名。作为指导教师，指导学生获得2026年中国国际大学生创新大赛上海市金奖、2026年全国大学生统计建模大赛上海市一等奖，以及2025、2026年中国国际大学生创新大赛同济大学校内赛金奖等荣誉。另指导团队获得2025年“天骄湾”杯智能系统创新创业大赛第二名等竞赛奖励。"
+        },
+        {
+          "title": "学术服务",
+          "body": "担任中国仿真学会机器人系统仿真专业委员会委员、中国生物医学工程学会康复工程分会青年委员，参与国际期刊客座编辑工作。为 Nature Communications、IEEE Transactions on Robotics、Soft Robotics、IEEE/ASME Transactions on Mechatronics、IEEE Robotics and Automation Letters、Bioinspiration & Biomimetics 及 IROS 等国际期刊与会议提供审稿服务，获 IOP Publishing 2024年度 Outstanding Reviewer Awards、2023年度 Trusted Reviewer。"
+        },
+        {
+          "title": "招生与交流",
+          "body": "欢迎对智能机器人、空中无人系统操作、空中具身物理交互等方向感兴趣的同学联系报考博士、硕士，也欢迎本科生加入团队开展科研。期待与机器人机构、感知、控制及相关领域的研究者开展学术交流。"
+        }
+      ],
+      "education": [
+        {
+          "period": "2015.09—2021.01",
+          "title": "北京航空航天大学 · 工学博士",
+          "description": "机械电子工程"
+        },
+        {
+          "period": "2011.09—2015.07",
+          "title": "北京航空航天大学 · 工学学士",
+          "description": "机械工程及自动化"
+        }
+      ],
+      "experience": [
+        {
+          "period": "2023.08—至今",
+          "title": "同济大学 · 助理教授",
+          "description": "智能机器人、空中无人系统与具身交互研究"
+        },
+        {
+          "period": "2021.01—2023.08",
+          "title": "中国科学院深圳先进技术研究院 · 博士后",
+          "description": "软体医疗机器人研究"
+        },
+        {
+          "period": "2018.09—2019.08",
+          "title": "瑞士洛桑联邦理工学院（EPFL）· 访问学者",
+          "description": "软体机器人研究"
+        }
+      ],
+      "sourceUrl": "https://faculty.tongji.edu.cn/jiangyongkang/zh_CN/index.htm"
+    }
   },
   "research": [
     {
@@ -121,20 +184,6 @@
       "kind": "期刊论文"
     },
     {
-      "id": "cv-paper-04",
-      "title": "Chain-like granular jamming: a novel stiffness-programmable mechanism for soft robotics",
-      "authors": "Jiang Yongkang, Chen Diansheng, Liu Che, et al.",
-      "venue": "Soft robotics",
-      "year": 2019,
-      "doi": "10.1089/soro.2018.0005",
-      "url": "",
-      "image": "",
-      "status": "已发表",
-      "topic": "",
-      "details": "6(1): 118–32",
-      "kind": "期刊论文"
-    },
-    {
       "id": "cv-paper-05",
       "title": "Reprogrammable bistable actuators for multimodal, fast, and ultra-sensitive grasping",
       "authors": "Jiang Yongkang, Tong Xin, Li Jian, et al.",
@@ -188,34 +237,6 @@
       "status": "已发表",
       "topic": "",
       "details": "21(5): 056004",
-      "kind": "期刊论文"
-    },
-    {
-      "id": "cv-paper-09",
-      "title": "Compact pneumatic clutch with integrated stiffness variation and position feedback",
-      "authors": "Jiang Yongkang#, Ma Junlin#, Chen Diansheng, et al.",
-      "venue": "IEEE Robotics and Automation Letters",
-      "year": 2021,
-      "doi": "",
-      "url": "",
-      "image": "",
-      "status": "已发表",
-      "topic": "",
-      "details": "6(3): 5697–5704",
-      "kind": "期刊论文"
-    },
-    {
-      "id": "cv-paper-10",
-      "title": "Multimodal pipe-climbing robot with origami clutches and soft modular legs",
-      "authors": "Jiang Yongkang, Chen Diansheng, Zhang Hongying, et al.",
-      "venue": "Bioinspiration & Biomimetics",
-      "year": 2020,
-      "doi": "",
-      "url": "",
-      "image": "",
-      "status": "已发表",
-      "topic": "",
-      "details": "15(2): 026002",
       "kind": "期刊论文"
     },
     {
@@ -317,62 +338,6 @@
       "kind": "会议论文"
     },
     {
-      "id": "cv-paper-18",
-      "title": "Multifunctional Robotic Glove with Active-Passive Training Modes for Hand Rehabilitation and Assistance",
-      "authors": "Jiang Yongkang, Chen Diansheng, Ma Junlin, et al.",
-      "venue": "IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)",
-      "year": 2021,
-      "doi": "",
-      "url": "",
-      "image": "",
-      "status": "已发表",
-      "topic": "",
-      "details": "4969–4974",
-      "kind": "会议论文"
-    },
-    {
-      "id": "cv-paper-19",
-      "title": "Fishbone-inspired soft robotic glove for hand rehabilitation with multi-degrees-of-freedom",
-      "authors": "Jiang Yongkang, Chen Diansheng, Liu Pengyong, et al.",
-      "venue": "IEEE International Conference on Soft Robotics (RoboSoft)",
-      "year": 2018,
-      "doi": "",
-      "url": "",
-      "image": "",
-      "status": "已发表",
-      "topic": "",
-      "details": "394–399",
-      "kind": "会议论文"
-    },
-    {
-      "id": "cv-paper-20",
-      "title": "Modeling and control of a soft-rigid hybrid robotic glove for hand rehabilitation and assistance",
-      "authors": "Jiang Yongkang",
-      "venue": "IEEE-CYBER",
-      "year": 2022,
-      "doi": "",
-      "url": "",
-      "image": "",
-      "status": "已发表",
-      "topic": "",
-      "details": "43–48",
-      "kind": "会议论文"
-    },
-    {
-      "id": "cv-paper-21",
-      "title": "Soft robotic glove for hand rehabilitation based on a novel fabrication method",
-      "authors": "Jiang Yongkang, Chen Diansheng, Que Jiacheng, et al.",
-      "venue": "IEEE International Conference on Robotics and Biomimetics (ROBIO)",
-      "year": 2017,
-      "doi": "",
-      "url": "",
-      "image": "",
-      "status": "已发表",
-      "topic": "",
-      "details": "817–822",
-      "kind": "会议论文"
-    },
-    {
       "id": "cv-paper-22",
       "title": "All-fabric bi-directional actuators for multi-joint assistance of upper limb",
       "authors": "Ma junlin, …, Jiang Yongkang",
@@ -415,48 +380,6 @@
       "kind": "期刊论文"
     },
     {
-      "id": "cv-paper-25",
-      "title": "A 3-D finger motion measurement system via soft strain sensors for hand rehabilitation",
-      "authors": "Lu Sitong, Chen Diansheng, Liu Che, Jiang Yongkang, et al.",
-      "venue": "Sensors and Actuators A: Physical",
-      "year": 2019,
-      "doi": "",
-      "url": "",
-      "image": "",
-      "status": "已发表",
-      "topic": "",
-      "details": "285: 700–11",
-      "kind": "期刊论文"
-    },
-    {
-      "id": "cv-paper-26",
-      "title": "Trajectory optimisation with musculoskeletal integration features for fracture reduction orthopaedic robot",
-      "authors": "Cui Rui, Li Jian, Jiang Yongkang, et al.",
-      "venue": "International Journal of Medical Robotics and Computer Assisted Surgery",
-      "year": 2022,
-      "doi": "",
-      "url": "",
-      "image": "",
-      "status": "已发表",
-      "topic": "",
-      "details": "18(2): e2372",
-      "kind": "期刊论文"
-    },
-    {
-      "id": "cv-paper-27",
-      "title": "A warm hug from a robot: a dual-mode e-skin with programming compliance",
-      "authors": "Liu Zhe, …, Jiang Yongkang",
-      "venue": "Review of Scientific Instruments",
-      "year": 2022,
-      "doi": "",
-      "url": "",
-      "image": "",
-      "status": "已发表",
-      "topic": "",
-      "details": "93(11): 115007",
-      "kind": "期刊论文"
-    },
-    {
       "id": "cv-paper-28",
       "title": "X-Tacformer : Spatio-tempral Attention Model for Tactile Recognition",
       "authors": "Hu Jiarui, …, Jiang Yongkang, He Bin",
@@ -468,34 +391,6 @@
       "status": "已发表",
       "topic": "",
       "details": "",
-      "kind": "会议论文"
-    },
-    {
-      "id": "cv-paper-29",
-      "title": "Configuration design and verification of soft-rigid hybrid hand with ab/adduction movement",
-      "authors": "Liu Zhe, …, Jiang Yongkang",
-      "venue": "International Conference on Mechanical Design",
-      "year": 2021,
-      "doi": "",
-      "url": "",
-      "image": "",
-      "status": "已发表",
-      "topic": "",
-      "details": "2375–2389",
-      "kind": "会议论文"
-    },
-    {
-      "id": "cv-paper-30",
-      "title": "Improving the pressure bearing capability of soft pneumatic actuators for hand rehabilitation based on a novel sealing method",
-      "authors": "Que Jiacheng, Wang Tianmiao, Chen Diansheng, Jiang Yongkang, et al.",
-      "venue": "IEEE International Conference on Real-time Computing and Robotics (RCAR)",
-      "year": 2018,
-      "doi": "",
-      "url": "",
-      "image": "",
-      "status": "已发表",
-      "topic": "",
-      "details": "331–336",
       "kind": "会议论文"
     }
   ],
@@ -740,51 +635,6 @@
       "status": "已授权",
       "role": "",
       "details": "发明人：刘梦源，王鑫舜，方锺滨，蒋永康，何斌\n编号：ZL202510595696.5\n日期：2025.08.15"
-    },
-    {
-      "id": "cv-patent-10",
-      "title": "微型气动***机构",
-      "year": 2022,
-      "category": "中国 · 发明专利",
-      "status": "已授权",
-      "role": "",
-      "details": "发明人：陈殿生, 蒋永康, 王敏, 徐颖\n编号：ZL202011250845.8\n日期：2022.02.18"
-    },
-    {
-      "id": "cv-patent-11",
-      "title": "软体驱动器***部件",
-      "year": 2020,
-      "category": "中国 · 发明专利",
-      "status": "已授权",
-      "role": "",
-      "details": "发明人：陈殿生, 刘哲, 蒋永康, 刘彻\n编号：ZL201810853708.X\n日期：2020.08.07"
-    },
-    {
-      "id": "cv-patent-12",
-      "title": "气动***驱动器",
-      "year": 2021,
-      "category": "中国 · 发明专利",
-      "status": "已授权",
-      "role": "",
-      "details": "发明人：陈殿生, 刘彻, 蒋永康\n编号：ZL201810365694.7\n授权公告日：2021.02.19"
-    },
-    {
-      "id": "cv-patent-13",
-      "title": "气管***支架",
-      "year": 2022,
-      "category": "中国 · 发明专利",
-      "status": "已公开",
-      "role": "",
-      "details": "发明人：李英田, 童鑫, 孙众卿, 蒋永康, 莫菲\n编号：CN202211477217.2\n日期：2022.11.04"
-    },
-    {
-      "id": "cv-patent-14",
-      "title": "气管支架***方法",
-      "year": 2022,
-      "category": "中国 · 发明专利",
-      "status": "已公开",
-      "role": "",
-      "details": "发明人：李英田, 童鑫, 孙众卿, 蒋永康, 莫菲\n编号：CN202211480396.5\n日期：2022.11.04"
     }
   ],
   "projects": [
@@ -834,33 +684,6 @@
       "details": "项目编号：22120240301\n资助期：2024/4-2026/3\n项目经费：12万元"
     },
     {
-      "id": "cv-project-06",
-      "title": "软体机器人***机理研究",
-      "year": 2021,
-      "category": "中国博士后科学基金特别资助（站前）",
-      "status": "结题",
-      "role": "主持",
-      "details": "项目编号：2021TQ0343\n资助期：2021/1-2022/12\n项目经费：18万元"
-    },
-    {
-      "id": "cv-project-07",
-      "title": "软体球囊***机理研究",
-      "year": 2021,
-      "category": "中国博士后科学基金面上资助",
-      "status": "结题",
-      "role": "主持",
-      "details": "项目编号：2021M693287\n资助期：2021/1-2022/12\n项目经费：8万元"
-    },
-    {
-      "id": "cv-project-08",
-      "title": "无人系统***平台",
-      "year": 2020,
-      "category": "上海市科委人工智能重大专项",
-      "status": "",
-      "role": "参与",
-      "details": "项目编号：2020shzdzx00104\n资助期：2020-11 至 2025-12\n项目经费：4500.00万元"
-    },
-    {
       "id": "cv-project-10",
       "title": "人形机器人***研究",
       "year": 2025,
@@ -868,42 +691,6 @@
       "status": "在研",
       "role": "参与",
       "details": "项目编号：62473294\n资助期：2025.1-2028.12\n项目经费：50万元"
-    },
-    {
-      "id": "cv-project-11",
-      "title": "手功能康复***技术研究",
-      "year": 2018,
-      "category": "国家自然科学基金面上项目",
-      "status": "结题",
-      "role": "参与",
-      "details": "项目编号：51775012\n资助期：2018.1-2021.12\n项目经费：69万元"
-    },
-    {
-      "id": "cv-project-12",
-      "title": "医疗机器人***技术研究",
-      "year": 2018,
-      "category": "北京市科技计划重大项目",
-      "status": "结题",
-      "role": "参与",
-      "details": "项目编号：Z181100003118005\n资助期：2018.1-2019.12\n项目经费：950万元"
-    },
-    {
-      "id": "cv-project-13",
-      "title": "上肢助力机器人***技术研究",
-      "year": 2019,
-      "category": "北京市科技计划项目",
-      "status": "结题",
-      "role": "参与",
-      "details": "项目编号：Z191100004419006\n资助期：2019-06 至 2021-06\n项目经费：280万元"
-    },
-    {
-      "id": "cv-project-14",
-      "title": "软体支架***方法研究",
-      "year": 2021,
-      "category": "深圳市科技创新委员会基础研究（重点项目）",
-      "status": "",
-      "role": "参与",
-      "details": "项目编号：JCYJ2021032411569025\n资助期：2021/08-2024/08\n项目经费：250万元"
     }
   ],
   "awards": [
@@ -1059,78 +846,6 @@
       "category": "竞赛指导",
       "status": "",
       "role": "指导教师"
-    },
-    {
-      "id": "cv-award-18",
-      "title": "中国科学院深圳先进技术研究院 “优秀员工”",
-      "year": 2022,
-      "details": "",
-      "category": "奖励与荣誉",
-      "status": "",
-      "role": ""
-    },
-    {
-      "id": "cv-award-19",
-      "title": "北京航空航天大学“优秀毕业生”（一等）",
-      "year": 2021,
-      "details": "",
-      "category": "学生阶段荣誉",
-      "status": "",
-      "role": ""
-    },
-    {
-      "id": "cv-award-20",
-      "title": "北京航空航天大学“优秀学术论文奖”（学院排名第一）",
-      "year": 2020,
-      "details": "",
-      "category": "学生阶段荣誉",
-      "status": "",
-      "role": ""
-    },
-    {
-      "id": "cv-award-21",
-      "title": "“国家奖学金”（学院排名第一）",
-      "year": 2019,
-      "details": "",
-      "category": "学生阶段荣誉",
-      "status": "",
-      "role": ""
-    },
-    {
-      "id": "cv-award-22",
-      "title": "北京航空航天大学“三好学生”",
-      "year": 2017,
-      "details": "",
-      "category": "学生阶段荣誉",
-      "status": "",
-      "role": ""
-    },
-    {
-      "id": "cv-award-23",
-      "title": "北京航空航天大学“优秀研究生”",
-      "year": 2016,
-      "details": "",
-      "category": "学生阶段荣誉",
-      "status": "",
-      "role": ""
-    },
-    {
-      "id": "cv-award-24",
-      "title": "北京航空航天大学“三好学生”",
-      "year": 2016,
-      "details": "",
-      "category": "学生阶段荣誉",
-      "status": "",
-      "role": ""
-    },
-    {
-      "id": "cv-award-25",
-      "title": "北京航空航天大学“优秀团员”",
-      "year": 2016,
-      "details": "",
-      "category": "学生阶段荣誉",
-      "status": "",
-      "role": ""
     }
   ]
 }
