@@ -1,0 +1,227 @@
+{
+  "site": {
+    "labName": "空中物理交互实验室",
+    "enName": "Aerial Physical Interaction Lab",
+    "tagline": "让无人机从空中观察，\n走向与环境交互。",
+    "description": "我们研究机器人如何通过结构、感知与控制的协同设计，在复杂环境中可靠地接触、抓取、对接和驻留。以空中物理交互为核心，探索形态智能与自主作业，让无人机成为能够与物理世界持续交互的具身系统。",
+    "email": "jiangyongkang@tongji.edu.cn",
+    "affiliation": "同济大学 · 上海自主智能无人系统科学中心",
+    "scholar": "https://scholar.google.com/citations?user=xp0Y7bsAAAAJ&hl=en&oi=ao",
+    "heroImage": "./media/hero-campus.jpg",
+    "heroVideo": "./media/docking.mp4",
+    "heroVideoPoster": "./media/docking-poster.jpg",
+    "recruitment": "欢迎对机器人机构、空中物理交互、感知与控制感兴趣的同学联系交流。\n我们重视扎实的基础、独立思考与动手实验。来信可附个人简历、研究兴趣和能够说明工作能力的项目或作品。",
+    "location": "中国 · 上海 · 同济大学",
+    "piName": "蒋永康",
+    "piTitle": "助理教授 · 课题组负责人",
+    "piBio": "同济大学电子与信息工程学院、上海自主智能无人系统科学中心助理教授，空中物理交互实验室及地下自然洞穴复合环境模拟实验室负责人。\n北京航空航天大学学士、博士，曾赴瑞士洛桑联邦理工学院开展访问研究。主要研究智能机器人、空中无人系统与具身交互，主持国家自然科学基金青年项目、国家重点研发计划子课题等。",
+    "piPhoto": "./media/jiang-yongkang.jpg"
+  },
+  "research": [
+    {
+      "id": "r-interaction",
+      "title": "空中物理交互与形态智能",
+      "subtitle": "Aerial interaction & morphological intelligence",
+      "summary": "把结构的力学特性融入机器人能力，研究接触、抓取与对接过程中的快速响应和飞行稳定性。",
+      "body": "空中机器人与环境发生接触时，结构响应和飞行运动会相互影响。我们结合机构设计、动力学分析与实验，探索形态智能在快速抓取、动态对接和空中操作中的作用。\n相关公开工作包括双稳态抓取机构和动态空中对接。",
+      "cover": "./media/docking-poster.jpg",
+      "video": "./media/docking.mp4",
+      "tags": [
+        "形态智能",
+        "动态对接",
+        "机器人机构"
+      ]
+    },
+    {
+      "id": "r-perching",
+      "title": "自主停歇与长时驻留",
+      "subtitle": "Perching & sustained observation",
+      "summary": "利用树枝、杆件及空间结构支撑无人机，研究从飞行到停歇、驻留监测与再起飞的完整过程。",
+      "body": "停歇为无人机提供了持续接触环境、降低驻留能耗的另一种方式。我们研究环境适配结构、抓附过程与整机协同，探索面向森林生态监测、应急感知和复杂空间巡检的自驻式平台。\n智能飞鸟是这一研究方向的代表性系统。",
+      "cover": "./media/perching.jpg",
+      "video": "",
+      "tags": [
+        "自适应停歇",
+        "环境交互",
+        "智能飞鸟"
+      ]
+    },
+    {
+      "id": "r-reconfigurable",
+      "title": "变刚度与可重构机器人",
+      "subtitle": "Variable stiffness & reconfigurable robotics",
+      "summary": "通过双稳态、阻塞与柔顺机构调节形态和力学性能，让机器人适应不同任务与接触条件。",
+      "body": "机器人的能力不仅来自算法，也来自结构本身。我们围绕可调刚度、能量调控与可重构机构开展研究，将物理机制与系统设计结合。\n公开成果涵盖链状颗粒阻塞、可编程双稳态执行器以及环境辅助的空中原位工具生成。",
+      "cover": "./media/morphology.jpg",
+      "video": "./media/toolmaking.mp4",
+      "tags": [
+        "变刚度",
+        "双稳态",
+        "可重构机构"
+      ]
+    },
+    {
+      "id": "r-perception",
+      "title": "多模态感知与自主控制",
+      "subtitle": "Multimodal perception & autonomous control",
+      "summary": "结合视觉、触觉与运动状态信息，研究交互过程中的状态判断、感知重构与闭环控制。",
+      "body": "可靠的物理交互需要理解接触和运动状态。我们研究多模态感知、触觉重构、状态估计及感知控制协同方法，并通过真实机器人平台验证。\n相关公开研究包括面向边缘应用的数据驱动动态触觉感知，以及视觉反馈下的空中操作。",
+      "cover": "./media/toolmaking-poster.jpg",
+      "video": "./media/toolmaking.mp4",
+      "tags": [
+        "视觉与触觉",
+        "状态估计",
+        "自主作业"
+      ]
+    }
+  ],
+  "publications": [
+    {
+      "id": "p-ral2026",
+      "title": "Shaping by Contact: Aerial In-Situ Toolmaking with a Variable-Stiffness Manipulator",
+      "authors": "Yongkang Jiang, Zhuoming Zheng, Chaojun Chen, Xuanrui Zhao, Yanmin Zhou, Bin He",
+      "venue": "IEEE Robotics and Automation Letters",
+      "year": 2026,
+      "doi": "10.1109/LRA.2026.3728697",
+      "url": "",
+      "image": "./media/toolmaking-poster.jpg",
+      "status": "Online",
+      "topic": "空中操作"
+    },
+    {
+      "id": "p-bb2026",
+      "title": "Morphological Intelligence in Dynamic Aerial Docking: A Bistable Tension-Hinge Gripper",
+      "authors": "Xihe Gu, Yongkang Jiang, Pengliang Dai, Zhaojie Wang, Bin He",
+      "venue": "Bioinspiration & Biomimetics, 21(5): 056004",
+      "year": 2026,
+      "doi": "10.1088/1748-3190/ae8f97",
+      "url": "",
+      "image": "./media/docking-poster.jpg",
+      "status": "已发表",
+      "topic": "动态对接"
+    },
+    {
+      "id": "p-tie2026",
+      "title": "Dynamic Tactile Sensor (DTS) With Data-Driven Super-Resolution for Edge Applications",
+      "authors": "蒋永康（通讯作者）及合作者",
+      "venue": "IEEE Transactions on Industrial Electronics, 73(2): 2554–2563",
+      "year": 2026,
+      "doi": "10.1109/TIE.2025.3598207",
+      "url": "",
+      "image": "",
+      "status": "已发表",
+      "topic": "触觉感知"
+    },
+    {
+      "id": "p-tmech2024",
+      "title": "Reprogrammable Bistable Actuators for Multimodal, Fast, and Ultrasensitive Grasping",
+      "authors": "Yongkang Jiang et al.",
+      "venue": "IEEE/ASME Transactions on Mechatronics, 29(2): 984–994",
+      "year": 2024,
+      "doi": "10.1109/TMECH.2023.3318976",
+      "url": "",
+      "image": "./media/morphology.jpg",
+      "status": "已发表",
+      "topic": "机器人机构"
+    },
+    {
+      "id": "p-crps2023",
+      "title": "Ultra-Tunable Bistable Structures for Universal Robotic Applications",
+      "authors": "Yongkang Jiang et al.",
+      "venue": "Cell Reports Physical Science, 4(5): 101365",
+      "year": 2023,
+      "doi": "10.1016/j.xcrp.2023.101365",
+      "url": "",
+      "image": "./media/morphology.jpg",
+      "status": "已发表",
+      "topic": "机器人机构"
+    },
+    {
+      "id": "p-soft2019",
+      "title": "Chain-Like Granular Jamming: A Novel Stiffness-Programmable Mechanism for Soft Robotics",
+      "authors": "Yongkang Jiang et al.",
+      "venue": "Soft Robotics, 6(1): 118–132",
+      "year": 2019,
+      "doi": "10.1089/soro.2018.0005",
+      "url": "",
+      "image": "",
+      "status": "已发表",
+      "topic": "变刚度"
+    }
+  ],
+  "members": [],
+  "news": [
+    {
+      "id": "n-bb",
+      "title": "形态智能用于动态空中对接",
+      "date": "2026",
+      "summary": "双稳态张力铰链抓取机构相关研究发表于 Bioinspiration & Biomimetics。",
+      "body": "研究围绕形态智能与动态空中对接展开，论文 Morphological Intelligence in Dynamic Aerial Docking: A Bistable Tension-Hinge Gripper 已公开发表。",
+      "image": "./media/docking-poster.jpg",
+      "video": "./media/docking.mp4",
+      "url": "https://doi.org/10.1088/1748-3190/ae8f97"
+    },
+    {
+      "id": "n-ral",
+      "title": "通过环境接触，实现空中原位工具生成",
+      "date": "2026",
+      "summary": "变刚度机械臂空中原位工具化研究在 IEEE Robotics and Automation Letters 上线。",
+      "body": "利用与环境的接触过程调整机械臂形态，探索空中机器人在不同任务中的工具适应能力。点击下方链接查看论文。",
+      "image": "./media/toolmaking-poster.jpg",
+      "video": "./media/toolmaking.mp4",
+      "url": "https://doi.org/10.1109/LRA.2026.3728697"
+    },
+    {
+      "id": "n-award",
+      "title": "智能飞鸟获全国赛事二等奖",
+      "date": "2025",
+      "summary": "智能飞鸟相关成果获2025年工信部新域新质创新大赛全国总决赛二等奖。",
+      "body": "课题组围绕复杂环境中的无人机停歇与驻留开展研究，推动机构、感知与系统方法在真实场景中验证。智能飞鸟相关成果获2025年工信部新域新质创新大赛全国总决赛二等奖。",
+      "image": "./media/perching.jpg",
+      "video": "",
+      "url": ""
+    }
+  ],
+  "gallery": [
+    {
+      "id": "g-docking",
+      "title": "动态空中对接",
+      "caption": "已发表研究的实机演示",
+      "kind": "video",
+      "image": "./media/docking-poster.jpg",
+      "url": "./media/docking.mp4"
+    },
+    {
+      "id": "g-tools",
+      "title": "空中原位工具生成",
+      "caption": "与环境接触，调整结构形态",
+      "kind": "video",
+      "image": "./media/toolmaking-poster.jpg",
+      "url": "./media/toolmaking.mp4"
+    },
+    {
+      "id": "g-cave",
+      "title": "复杂环境实验平台",
+      "caption": "地下自然洞穴复合环境模拟场地",
+      "kind": "image",
+      "image": "./media/cave-lab.jpg",
+      "url": "./media/cave-lab.jpg"
+    },
+    {
+      "id": "g-campus",
+      "title": "我们的科研环境",
+      "caption": "上海自主智能无人系统科学中心",
+      "kind": "image",
+      "image": "./media/hero-campus.jpg",
+      "url": "./media/hero-campus.jpg"
+    },
+    {
+      "id": "g-optical",
+      "title": "系统验证与实验",
+      "caption": "机器人运动与交互验证场地",
+      "kind": "image",
+      "image": "./media/optical-lab.jpg",
+      "url": "./media/optical-lab.jpg"
+    }
+  ]
+}
